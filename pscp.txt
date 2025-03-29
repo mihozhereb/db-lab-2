@@ -1,0 +1,1 @@
+pscp -r -P 2222 "C:\Users\pro\Desktop\дз\бд\db-lab-2" s465887@helios.cs.ifmo.ru:/home/studs/s465887/bd
